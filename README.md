@@ -23,7 +23,7 @@ Bank Sat memiliki User Interface yang minimalis dan User-friendly
 
 ## Fitur Utama
 
-* Dompet Digita
+* Dompet Digital
 * Transfer Uang
 * Pembayaran Tagihan
 * Pembayaran dengan QR Code
