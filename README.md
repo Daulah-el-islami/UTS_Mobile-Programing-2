@@ -3,8 +3,8 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-follow-blue?logo=facebook)](https://www.facebook.com/daulah.islami.11)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-pink?logo=instagram)](https://www.instagram.com/daulah87_)
-[![GitHub](https://img.shields.io/badge/GitHub-follow-black?logo=github)](https://github.com/Daulah-el-islami)
 [![Discord](https://img.shields.io/badge/Discord-join-blueviolet?logo=discord)](https://discord.gg/bHP8tPdn)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-black?logo=github)](https://github.com/Daulah-el-islami)
 
 ## Tugas UTS Mobile Programing 2
 
