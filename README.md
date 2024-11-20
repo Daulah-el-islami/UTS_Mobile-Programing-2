@@ -29,7 +29,7 @@ Bank Sat memiliki User Interface yang minimalis dan User-friendly
 * Pembayaran dengan QR Code
 * Riwayat Transaksi yang Lengkap
 
-## Mandfaat & Tujuan
+## Manfaat & Tujuan
 
 Bank Sat bertujuan untuk menjadi platform keuangan digital yang terpercaya, membantu pengguna dalam mengatur dan memanfaatkan uang mereka dengan lebih efektif. Dengan fitur-fitur lengkap yang terus dikembangkan, aplikasi ini tidak hanya memenuhi kebutuhan finansial harian pengguna, tetapi juga membantu mereka mengontrol keuangan secara lebih baik.
 
